@@ -14,7 +14,7 @@ cs16 - learn emacs
 cs24 - computatinal complexity - big O notation
        testing/debugging - black and white box testing
        namespaces, header files
-       classes - private, public, implementation of functions, construct
+       classes - private, public, implementation of functions, constructors,
        	         destructor, overloading operators, friend functions
        templates - typedef
        pointers and dynamic memory - new, delete, stack vs heap
