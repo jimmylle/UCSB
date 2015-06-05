@@ -1,0 +1,29 @@
+cs16 - learn emacs
+       basics of a cpp file i.e. #include <iostream>, etc.
+       variable types i.e. int,char,double,etc.
+       if, else if, else statements
+       loops - for,while
+       arrays
+       functions - declarations, prototype, pass by value, pass by reference
+       pointers and memory address
+       linkedlist - nodes, head ptr, NULL
+       structs
+       ifstream - getLine
+       binary,hexa,octo conversions (mostly binary) - two's complement
+       
+cs24 - computatinal complexity - big O notation
+       testing/debugging - black and white box testing
+       namespaces, header files
+       classes - private, public, implementation of functions, constructors,		     destructors, overloading operators, friend functions
+       templates - typedef
+       pointers and dynamic memory - new, delete, stack vs heap
+       linkedlist - node class, iterating through list
+       stacks and queues
+       recursion - base case, smaller case, general case
+       trees - binary search tree, pre-order,in-order,post-order traversals
+       	       left child vs right child, inserting/removing from a tree
+	       full tree vs complete tree vs balanced tree
+       heaps - priority queue
+       hash tables - linear probing, double hashing, clustering
+       sorting algorithms - bubble sort, selection sort, merge sort
+       BST vs heaps vs hash table - pro and cons
